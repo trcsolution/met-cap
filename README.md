@@ -9,3 +9,6 @@
 3) download and install promo
    
   https://github.com/trcsolution/met-cap/blob/main/TRCPromoInstall.msi
+   in setup needs to enter 2 paramneters
+     - STRAPI BASE URL
+     - STRAPI TOCKEN, could be generated in strapi
