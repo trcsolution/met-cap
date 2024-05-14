@@ -10,7 +10,7 @@
    
   https://github.com/trcsolution/met-cap/blob/main/TRCPromoInstall.msi
   
-   in setup needs to enter 2 paramneters
+   in setup needs to enter 2 arguments
    
      - STRAPI BASE URL
      
