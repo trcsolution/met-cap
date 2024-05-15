@@ -16,4 +16,9 @@
      - STRAPI BASE URL
      
      - STRAPI TOCKEN, could be generated in strapi
-     
+
+ 4) Open windows services and start TRCPromo service
+
+![image](https://github.com/trcsolution/met-cap/assets/80454708/7d9da8ab-ea67-429a-b25b-85b78eb06861)
+
+
