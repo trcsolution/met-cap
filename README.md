@@ -1,6 +1,7 @@
-1) Install Dotnet 6.0 runtime
+1) Install Dotnet 6.0 SDK
+   USE SDK DOWNLOAD
+     https://download.visualstudio.microsoft.com/download/pr/47f095fd-7aa8-4def-82d0-57897cf32202/f063bf11d48ab31bb6f87a6d582a57a8/dotnet-sdk-6.0.422-win-x64.exe
 
-  https://dotnet.microsoft.com/en-us/download/dotnet/6.0
   
 2) Install mongodb and make sure it is running at standard MONGO port 27017
 
